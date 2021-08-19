@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{D2CD1A83-AD22-3CC4-E64F-FFF163A94C41}|">
+  <MonoDevelop.Ide.ItemProperties.NahgAttacks PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Ads/Banner.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SocialClass.cs" Line="13" Column="23" />
+      <File FileName="Assets/Scripts/GameController/GameController.cs" Line="188" Column="18" />
+      <File FileName="Assets/Scripts/Menu/MenuController.cs" Line="61" Column="13" />
+      <File FileName="Assets/Scripts/Ads/Banner.cs" Line="57" Column="18" />
+      <File FileName="Assets/Scripts/Ads/Interstitiales.cs" Line="49" Column="5" />
+      <File FileName="Assets/Scripts/Spawner/SpawnControl.cs" Line="17" Column="44" />
+      <File FileName="Assets/Scripts/Brako/BrakoBehavior.cs" Line="16" Column="2" />
+      <File FileName="Assets/Scripts/Nahg/NahgBehavior.cs" Line="41" Column="34" />
+      <File FileName="Assets/Scripts/Test.cs" Line="31" Column="39" />
+      <File FileName="Assets/Scripts/SaveLoadManager.cs" Line="114" Column="4" />
+      <File FileName="Assets/Scripts/IAPManager.cs" Line="71" Column="37" />
+      <File FileName="Assets/Scripts/POC/EnterToPOC.cs" Line="29" Column="4" />
+      <File FileName="Assets/Scripts/Player/PlayerBehavior/PlayerBehavior.cs" Line="58" Column="39" />
+      <File FileName="Assets/Scripts/GameController/Floor.cs" Line="18" Column="53" />
+      <File FileName="Assets/Scripts/GameController/ChangePositionsButtons.cs" Line="12" Column="31" />
+      <File FileName="Assets/NahgResources.cs" Line="7" Column="97" />
+      <File FileName="Assets/Scripts/GameController/Pause.cs" Line="99" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
